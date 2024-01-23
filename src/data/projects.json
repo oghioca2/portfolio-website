@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/project.png",
+        "description": "This is a MERN project",
+        "skills": ["React", "Express", "Node"],
+        "demo": "example.com",
+        "source": "https://www.github.com/"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/project.png",
+        "description": "This is a MERN project",
+        "skills": ["React", "Express", "Node"],
+        "demo": "example.com",
+        "source": "https://www.github.com/"
+    }
+]

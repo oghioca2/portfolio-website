@@ -1,0 +1,34 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html5.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css3.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "NodeJS",
+        "imageSrc": "skills/nodejs.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/postgre.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "GIT",
+        "imageSrc": "skills/git.png"
+    }
+]

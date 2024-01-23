@@ -1,0 +1,27 @@
+[
+    {
+        "website": "Udemy",
+        "course": "The Complete 2023 Web Development Bootcamp",
+        "startDate": "Mar, 2023",
+        "endDate": "Dec, 2023",
+        "experiences": "I learned web develpopment from scratch with the help of this course",
+        "imageSrc": "courses/udemy.png"
+    },
+    {
+        "website": "FreeCodeCamp",
+        "course": "Responsive Web Design Certification",
+        "startDate": "Dec, 2023",
+        "endDate": "Ian, 2024",
+        "experiences": "I mastered my responsive/ mobile design skills",
+        "imageSrc": "courses/freecodecamp.png"
+    },
+    {
+        "website": "Frontend Mentor",
+        "course": "Challenges",
+        "startDate": "Oct, 2023",
+        "endDate": "Ian, 2024",
+        "experiences": "I took on challenges to further test my coding skills",
+        "imageSrc": "courses/frontend-mentor.png"
+    }
+    
+]
