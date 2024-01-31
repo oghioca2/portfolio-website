@@ -1,18 +1,18 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
+        "title": "Expense App",
+        "imageSrc": "projects/expenseApp.png",
         "description": "This is a MERN project",
         "skills": ["React", "Express", "Node"],
-        "demo": "example.com",
-        "source": "https://www.github.com/"
+        "demo": "https://mern-frontend-ieu9.onrender.com/",
+        "source": "https://github.com/oghioca2/mern-frontend"
     },
     {
         "title": "Project B",
         "imageSrc": "projects/project.png",
         "description": "This is a MERN project",
         "skills": ["React", "Express", "Node"],
-        "demo": "example.com",
+        "demo": "",
         "source": "https://www.github.com/"
     }
 ]
